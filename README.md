@@ -81,3 +81,9 @@ Dynamic season-wise points table including:
 MMS – Information Technology  
 Aspiring Business / Data Analyst  
 
+---
+
+## 🔗 Note
+This project was developed as part of my **On-Job Training (OJT)** and is intended for **learning, portfolio, and demonstration purposes**.
+Screenshot : 
+![Dashboard Preview]()
