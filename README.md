@@ -83,7 +83,5 @@ Aspiring Business / Data Analyst
 
 ---
 
-## 🔗 Note
-This project was developed as part of my **On-Job Training (OJT)** and is intended for **learning, portfolio, and demonstration purposes**.
-Screenshot : 
+## Screenshot : 
 ![Dashboard Preview](https://github.com/YashBokade7/IPL-Analysis-Dashboard/blob/main/IPL%20Analysis%20Dashboard.png)
